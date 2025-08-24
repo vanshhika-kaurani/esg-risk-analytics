@@ -24,8 +24,11 @@ Explore insights from ESG + Financial data
 
 ## 🖼 Preview
 
-<img width="943" height="541" alt="Screenshot 2025-08-24 173509" src="https://github.com/user-attachments/assets/ee283998-000e-47d6-890d-b9646f10d3b5" />
+
 <img width="978" height="577" alt="Screenshot 2025-08-24 172619" src="https://github.com/user-attachments/assets/29dd85e0-f938-4afe-ae6e-74802c780c65" />
+
+
+
 <img width="945" height="537" alt="Screenshot 2025-08-24 173540" src="https://github.com/user-attachments/assets/0f7dbb84-de37-49b9-9ea6-a2837951ffe3" />
 
 
